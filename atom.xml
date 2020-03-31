@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ifsth.com/"/>
-  <updated>2020-03-30T09:05:32.555Z</updated>
+  <updated>2020-03-31T10:21:37.797Z</updated>
   <id>https://ifsth.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Software-Box</title>
+    <link href="https://ifsth.com/post/Software-Box.html"/>
+    <id>https://ifsth.com/post/Software-Box.html</id>
+    <published>2020-03-31T09:55:56.000Z</published>
+    <updated>2020-03-31T10:21:37.797Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://typora.io/#" target="_blank" rel="noopener">typora</a> <a href="http://www.bandisoft.com/" target="_blank" rel="noopener">bandzip</a> <a href="http://www.bandisoft.com/" target="_blank" rel="noopener">VScode</a></p><h1 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h1><p><a href="https://tool.lu/favicon/" target="_blank" rel="noopener">favicon</a></p>]]></content>
+    
+    <summary type="html">
+    
+      我的软件宝库
+    
+    </summary>
+    
+      <category term="Computer" scheme="https://ifsth.com/categories/Computer/"/>
+    
+    
+      <category term="software" scheme="https://ifsth.com/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>关于我</title>
